@@ -1,10 +1,10 @@
 Garage-management-system
 # Welcome to the garage management system
-# In this application, you'll be able to store all your data about cars, trucks and motorcycles being treated in your garage
-# Some of the actions at your disposal: insert new vehicles, show vehicles already in the garage and print all of their data, change vehicles status, refueling, recharging
+This application allows you to conveniently store all the information about cars, trucks, and motorcycles undergoing treatment in your garage. You have various actions at your fingertips, including adding new vehicles, displaying existing vehicles in the garage along with their complete data, updating vehicle status, refueling, recharging and more.
 //
-# Code -- Bullets:
+# Code:
 # C# .NET Framework
 * Establishing a full separation between the user interface (UI), and the logic of the system
 * Inharitance and Polymorphism
 * Working with several projects and an external dll
+
